@@ -1,2 +1,2 @@
 # LLM
-Machine Learning-Driven Predictive Maintenance Data
+Machine Learning-Driven Predictive Maintenance Framework
